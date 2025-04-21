@@ -1,4 +1,15 @@
-## Hi there 👋
+## Proyectos Actuales
+
+---
+### Proyecto: **Empleaweek**
+
+- **Frontend Landing:** `privado`  
+  Aplicación en Vue para la landing del empleaweek
+  [Repositorio Landing](https://github.com/joaquin22/empleaweek-landing)
+- **Backend:** `privado`  
+  API REST en Django.
+  
+---
 
 <!--
 **joaquin22/joaquin22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
