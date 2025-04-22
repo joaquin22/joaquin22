@@ -4,16 +4,13 @@
 ### Proyecto: **Empleaweek**
 
 - **Frontend Landing:** `privado`  
-  Aplicación en Vue para la landing del empleaweek
-  
+  Aplicación en Vue para la landing del empleaweek.   
   [Repositorio Landing](https://github.com/joaquin22/empleaweek-landing)
-- **Admin** `privado`
-  Aplicación en Vue para el admin del empleaweek
-
+- **Admin** `privado`   
+  Aplicación en Vue para el admin del empleaweek.  
   [Respositorio Admin](https://github.com/joaquin22/empleaweek-admin)
 - **Backend:** `privado`  
-  API REST en DRF.
-  
+  API REST en DRF.  
   [Repositorio API](https://github.com/joaquin22/empleaweek-api)
   
 ---
